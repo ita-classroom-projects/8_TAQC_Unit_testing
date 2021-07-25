@@ -1,0 +1,14 @@
+firstName;lastName;companyName;roleName
+Ivan;Ivanov;Sun;Developer
+Perto;Petrov;Sun;Developer
+Ivan;Ivanov;Moon;Developer
+Stepan;Petrov;Mars;DevOps
+Ira;Ivanova;World;QC
+Andriy;Ivanov;Mars;QC
+IVAN;Ivanov;Sun;Developer
+Inna;Ivanova;Micro;QC
+Perto;Petrov;Sun;TAQC
+Vasyl;Petrov;Mars;TAQC
+Inna;Ivanova;Micro;QC
+Perto;PETROV;Sun;Developer
+Vasyl;Ivanov;Moon;Developer
